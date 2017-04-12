@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+}
+
+.top_section {
+  background-color: rgb(216, 216, 216);
+  height: 100px;
+  width: 1040px;
+  padding: 10px 30px;
+}
+
+.blue_square {
+  background-color: rgb(74, 144, 226);
+  height: 100px;
+  width: 100px;
+}
+
+.top_white {
+  background-color: #fff;
+  height: 300px;
+  width: 1040px;
+}
+
+p {
+  font-size: 30px;
+  padding: 55px 20px;
+}
+
+.second_blue {
+  background-color: rgb(74, 144, 226);
+  height: 150px;
+  width: 1040px;
+}
+
+.third_aqua {
+  background-color: rgb(80, 227, 194);
+  height: 150px;
+  width: 1040px;
+}
+
+.fourth_green {
+  background-color: rgb(184, 233, 134);
+  height: 150px;
+  width: 1040px;
+}
+
+.fifth_yellow {
+  background-color: rgb(248, 231, 28);
+  height: 150px;
+  width: 1040px;
+}

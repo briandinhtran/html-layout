@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+
+}
+.left {
+  float: left;
+  background-color: rgb(74, 144, 226);
+  width: 342px;
+  height: 800px;
+}
+
+.center {
+  float: left;
+  background-color: rgb(80, 227, 194);
+  width: 342px;
+  height: 800px;
+}
+
+.right {
+  float: left;
+}
+
+.right-top {
+  background-color: rgb(184, 233, 134);
+  width: 342px;
+  height: 600px;
+}
+
+.right_bottom {
+  background-color: rgb(208, 2, 27);
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 27px;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
